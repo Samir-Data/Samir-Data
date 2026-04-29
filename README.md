@@ -3,5 +3,4 @@ I am a Quality Management Professional transitioning into Data Analytics. I spec
 •	🔭 I’m currently working on: Data Analysis projects using SQL & Power BI.
 •	🌱 I’m currently learning: Python for Data Science.
 •	🎯 Goal: To optimize business processes through advanced analytics.
-•	📫 How to reach me: [Your LinkedIn Link]
-Tech Stack: 🛠 SQL | Power BI | Excel | Python
+•	📫 How to reach me:www.linkedin.com/in/samir-abdelbasset-data Tech Stack: 🛠 SQL | Power BI | Excel | Python
